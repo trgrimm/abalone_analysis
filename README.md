@@ -1,1 +1,1 @@
-# abalone_analysis
+Render `abalone_tidymodels.qmd` in RStudio to produce [this blog post](https://trgrimm.github.io/posts/2024/05/abalone_tidymodels/) about using `tidymodels` in R to perform supervised regression and evaluate the performance of various models.
